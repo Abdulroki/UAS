@@ -1,6 +1,6 @@
 # UAS
 # <p align="center"> UAS Pemrograman
-   ## <p align="center"> Henri Caesar Bimantara
+   ## <p align="center"> Abdul Rokim
 
 
 <br>
