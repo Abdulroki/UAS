@@ -10,7 +10,7 @@
 
   PDF : [Klik Text Biru Ini !!!](assets/Tutorial.pdf)
 
-![soal](./assets/15%20Project%20UAS_pages-to-jpg-0002.jpg)
+![soal](./Tutorial.docx)
 
 <br>
 
